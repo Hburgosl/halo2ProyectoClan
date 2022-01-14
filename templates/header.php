@@ -12,7 +12,7 @@
 <div class="contenedor-head">
 
 <div class="contenido-head">
-    <img src="" alt="">
+    <a href="#"> <img src="../img/head.jpg" alt=""></a>
     <h1>|DEV|-CLAN</h1>
 </div>
 
