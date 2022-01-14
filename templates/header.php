@@ -16,6 +16,8 @@
 <div class="contenido-head">
    
     <h1>|DEV|-CLAN</h1>
+
+    
 </div>
 
 
