@@ -8,6 +8,7 @@
 
        </footer>
 
+       <script src="https://kit.fontawesome.com/f1dcbdae79.js" crossorigin="anonymous"></script>
        </body>
 
        </html>
