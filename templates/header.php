@@ -7,6 +7,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>|Dev|-clan</title>
     <link rel="shortcut icon" href="" type="image/x-icon">
+    <link rel="stylesheet" href="/styles/estilos.css">
+    <link rel="stylesheet" href="/styles/webResponsiva.css">
 </head>
 
 <body>
