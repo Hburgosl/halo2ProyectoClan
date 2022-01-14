@@ -18,6 +18,7 @@
         <div class="contenido-head">
             <img src="" alt="">
             <h1>|DEV|-CLAN</h1>
+            <img src="../img/head.jpg" alt="">
         </div>
 
 
