@@ -1,8 +1,7 @@
 * {
-    margin: 0;
-    padding: 0;
-  }
-  
+  margin: 0;
+  padding: 0;
+}
 
 :root {
   --color-header: #134679;
@@ -16,9 +15,9 @@
   display: flex;
 }
 
-.contenedor-header img{
-    position: relative;
-    
+.contenedor-header img {
+  position: relative;
+}
 
 footer {
   width: 100%;
