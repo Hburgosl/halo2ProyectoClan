@@ -1,9 +1,9 @@
        <footer>
 
            <div class="contenedor-redes">
-               <span>Facebbok</span>
-               <span>Instagram</span>
-               <span>Twitter</span>
+               <span><i class="fab fa-facebook-square"></i></span>
+               <span><i class="fab fa-instagram"></i></span>
+               <span><i class="fab fa-twitter"></i></span>
            </div>
 
        </footer>
