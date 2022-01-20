@@ -1,6 +1,18 @@
 <?php include 'templates/cabecera.php' ?>
 
-<div class="contenedor-contenido"></div>
+<div class="contenedor-contenido">
+
+<div class="menu">
+    <ul>
+        <li><a class="links-menu" href="#">HOME</a></li>
+        <li><a class="links-menu" href="#">INTEGRANTES</a></li>
+        <li><a class="links-menu" href="#">ADMINS</a></li>
+        <li><a class="links-menu" href="#">CONTACTO</a></li>
+    </ul>
+</div>
+
+</div>
+ 
 
 
 
@@ -8,11 +20,4 @@
 
 
 
-
-<<<<<<< HEAD
-
-
-<?php include 'templates/pieDePagina.php'?>
-=======
 <?php include 'templates/pieDePagina.php' ?>
->>>>>>> 4d367a8ef4a3415e14ea81822df13d8f0c1eba4d

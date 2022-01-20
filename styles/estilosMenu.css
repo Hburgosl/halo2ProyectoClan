@@ -1,0 +1,49 @@
+:root {
+  --color-header: #134679;
+}
+
+@font-face {
+  font-family: "halo";
+  src: url("../fonts/halo/Halo.ttf") format("truetype");
+}
+
+.menu {
+  width: 100%;
+  height: 10%;
+  background: #000;
+  position: absolute;
+  font-family: halo;
+  font-size: 20px;
+  z-index: 5;
+  position: absolute;
+  top: 45%;
+}
+
+.menu ul {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  position: relative;
+  top: 18%;
+}
+
+.menu ul li {
+  position: relative;
+  padding: 10px 20px;
+  width: 200px;
+  text-align: center;
+}
+
+.menu .links-menu {
+  text-decoration: none;
+  cursor: pointer;
+  position: relative;
+  color: #fff;
+  z-index: 6;
+}
+
+.menu ul li:hover {
+  text-shadow: 2px -1px 15px #0080ff;
+  border-left: 1px solid #fff;
+}

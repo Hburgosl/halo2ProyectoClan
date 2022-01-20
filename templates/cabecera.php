@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="styles/estilosHeader.css?rand(1,20)">
     <link rel="stylesheet" href="styles/webResponsiva.css?rand(1,20)">
     <link rel="stylesheet" href="styles/estilosFooter.css?rand(1,20)">
+    <link rel="stylesheet" href="styles/estilosMenu.css?rand(1,20)">
     <title>|DEV|-CLAN</title>
 </head>
 
