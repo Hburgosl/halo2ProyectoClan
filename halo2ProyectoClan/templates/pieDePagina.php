@@ -1,9 +1,20 @@
        <footer>
 
            <div class="contenedor-redes">
-               <span><i class="fab fa-facebook-square"></i></span>
-               <span><i class="fab fa-instagram"></i></span>
-               <span><i class="fab fa-twitter"></i></span>
+               <div class="titulo-redes">
+                   <h2>Redes sociales</h2>
+               </div>
+               <div class="redes">
+                   <div>
+                       <span><i class="fab fa-facebook-square"></i></span>
+                   </div>
+                   <div>
+                       <span><i class="fab fa-instagram"></i></span>
+                   </div>
+                   <div>
+                       <span><i class="fab fa-twitter"></i></span>
+                   </div>
+               </div>
            </div>
 
        </footer>

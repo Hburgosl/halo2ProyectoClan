@@ -45,3 +45,31 @@ footer {
   height: 200px;
   background: var(--color-header);
 }
+
+.contenedor-redes {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 10%;
+  height: auto;
+  margin-left: 5%;
+}
+
+.contenedor-redes h2 {
+  color: #fff;
+  margin-top: 20px;
+}
+
+.redes {
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+}
+
+.fa-facebook-square,
+.fa-instagram,
+.fa-twitter {
+  color: #fff;
+  font-size: 30px;
+  padding: 5px;
+}
