@@ -36,9 +36,13 @@ footer {
 
 .fa-facebook-square,
 .fa-instagram,
-.fa-twitter {
+.fa-discord {
   font-size: 25px;
   font-family: halo;
   color: #fff;
   padding: 5px;
+}
+
+.redes div {
+  text-align: center;
 }

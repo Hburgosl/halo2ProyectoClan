@@ -9,10 +9,10 @@
                        <span><i class="fab fa-facebook-square"></i></span>
                    </div>
                    <div>
-                       <span><i class="fab fa-instagram"></i></span>
+                       <span><i class="fab fa-discord"></i></span>
                    </div>
                    <div>
-                       <span><i class="fab fa-twitter"></i></span>
+                       <span><i class="fab fa-instagram"></i></span>
                    </div>
                </div>
            </div>
