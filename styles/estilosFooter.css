@@ -1,0 +1,14 @@
+:root {
+  --color-header: #134679;
+}
+
+@font-face {
+  font-family: "halo";
+  src: url("../fonts/halo/Halo.ttf") format("truetype");
+}
+
+footer {
+  width: 100%;
+  height: 200px;
+  background: var(--color-header);
+}
