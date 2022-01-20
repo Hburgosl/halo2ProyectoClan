@@ -12,3 +12,33 @@ footer {
   height: 200px;
   background: var(--color-header);
 }
+
+.contenedor-redes {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 20%;
+  height: auto;
+  margin-left: 5%;
+}
+
+.titulo-redes h2 {
+  color: #fff;
+  font-family: halo;
+  font-style: italic;
+  margin-top: 30px;
+  font-size: 30px;
+}
+
+.redes {
+  margin-top: 10px;
+}
+
+.fa-facebook-square,
+.fa-instagram,
+.fa-twitter {
+  font-size: 25px;
+  font-family: halo;
+  color: #fff;
+  padding: 5px;
+}
