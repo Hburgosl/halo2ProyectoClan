@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles/estilos.css?rand(1,20)">
+    <link rel="stylesheet" href="styles/estilosHeader.css?rand(1,20)">
     <link rel="stylesheet" href="styles/webResponsiva.css?rand(1,20)">
     <link rel="stylesheet" href="styles/estilosFooter.css?rand(1,20)">
     <title>|DEV|-CLAN</title>
