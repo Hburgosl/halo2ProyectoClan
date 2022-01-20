@@ -7,27 +7,32 @@
   --color-header: #134679;
 }
 
+@font-face {
+  font-family: "halo";
+  src: url("../fonts/halo/Halo.ttf") format("truetype");
+}
+
 /* estilos header */
 
 .contenedor-header {
-  position: relative;
-  width: 100%;
-  height: 200px;
-  background: var(--color-header);
-  display: flex;
-}
-
-.contenedor-header img {
   position: absolute;
   width: 100%;
-  height: 100%;
+  height: 280px;
+  background: var(--color-header);
+  background-image: url(../img/header.jpg);
+  background-size: 100%;
+  background-position: top;
+  display: flex;
+  overflow: hidden;
 }
 
 .contenedor-header h1 {
   z-index: 1;
   position: absolute;
-  top: 30%;
-  left: 45%;
+  font-family: halo;
+  font-size: 70px;
+  top: 40%;
+  left: 30%;
   color: #fff;
 }
 
